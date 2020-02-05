@@ -1,2 +1,2 @@
 # Chaos-Game
-Trying to see what happens with an n-gon SIerpinski carpet 
+exploring the outcome of incorporating the chaos game algorithm n-gons and changing the distance to the next vertex.
